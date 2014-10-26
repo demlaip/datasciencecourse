@@ -1,5 +1,5 @@
 datasciencecourse
 =================
 
-Practice exercise of his new hobby(data science).
+Practice repository of this new hobby(data science).
 
